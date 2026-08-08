@@ -1,7 +1,7 @@
 
-# Hi, I'm Red_Wolf2467! 👋
+# Hi, I'm RedWolfRoot! 👋
 
-I'm Red_wolf2467 but everyone calls me Red. I am 18 years old and live in Austria. I have been programming for several years and work on various projects. <br>
+I'm RedWolfRoot but everyone calls me Red. I am 18 years old and live in Austria. I have been programming for several years and work on various projects. <br>
 I'm a big fan of the video games Minecraft, Satisfactory, Detroit, and Portal. I also enjoy watching the German streamers Thejocraft and Fuxelbau, but I'm also a big fan of Markiplier.
 
 <a href="https://discord.com/users/686634546577670400" align="center"><img src="https://lanyard.cnrad.dev/api/686634546577670400?theme=dark&idleMessage=Maybe%20I'm%20not%20doing%20anything%2C%20maybe%20I'm%20planning%20to%20take%20over%20the%20world%2C%20who%20knows%3F" /></a>
@@ -46,7 +46,7 @@ I'm a big fan of the video games Minecraft, Satisfactory, Detroit, and Portal. I
   <a href="https://avocloud.net/youtube/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/red_wolf2467/" target="_blank">
+  <a href="https://www.instagram.com/f.murauer/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
 </div>
