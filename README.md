@@ -1,16 +1,16 @@
 
-# Hi, I'm RedWolfRoot! 👋
+# Hi, I'm Red_wolf2467! 👋
 
-I'm RedWolfRoot but everyone calls me Red. I am 18 years old and live in Austria. I have been programming for several years and work on various projects. <br>
+I'm Red_wolf2467 but everyone calls me Red. I am 18 years old and live in Austria. I have been programming for several years and work on various projects. <br>
 I'm a big fan of the video games Minecraft, Satisfactory, Detroit, and Portal. I also enjoy watching the German streamers Thejocraft and Fuxelbau, but I'm also a big fan of Markiplier.
 
 <a href="https://discord.com/users/686634546577670400" align="center"><img src="https://lanyard.cnrad.dev/api/686634546577670400?theme=dark&idleMessage=Maybe%20I'm%20not%20doing%20anything%2C%20maybe%20I'm%20planning%20to%20take%20over%20the%20world%2C%20who%20knows%3F" /></a>
 
 ## Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=redwolfroot&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=redwolfroot&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=redwolfroot&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Red_wolf2467&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Red_wolf2467&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Red_wolf2467&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
